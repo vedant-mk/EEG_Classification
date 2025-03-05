@@ -1,4 +1,4 @@
-EEG during mental arithmetic task
+EEG during mental arithmetic tasks
 
 Igor Zyma, Sergii Tukaev, Ivan Seleznov
 
